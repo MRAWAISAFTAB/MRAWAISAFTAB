@@ -1,150 +1,78 @@
+<!-- 
+  ╔══════════════════════════════════════╗
+  ║         AWAIS-OS v1.0.0              ║
+  ║    kernel: creativity-2025.1         ║
+  ╚══════════════════════════════════════╝
+-->
+
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        ██╗  ██╗██╗    ██╗ █████╗ ██╗███████╗                 ║
-║        ██║  ██║██║    ██║██╔══██╗██║██╔════╝                 ║
-║        ███████║██║    ██║███████║██║███████╗                 ║
-║        ██╔══██║██║    ██║██╔══██║██║╚════██║                 ║
-║        ██║  ██║██║    ██║██║  ██║██║███████║                 ║
-║        ╚═╝  ╚═╝╚═╝    ╚═╝╚═╝  ╚═╝╚═╝╚══════╝                ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-# Hey, I'm Awais Aftab 👋
-
-### Full Stack Developer · Generative AI Explorer · Open Source Collaborator
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;Exploring+the+frontiers+of+Generative+AI+%F0%9F%A4%96;Always+learning%2C+always+shipping+%E2%9A%A1;Open+to+collaborate+on+cool+projects+%F0%9F%94%A5)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&text=AWAIS%20AFTAB&fontSize=60&color=0:0f0f0f,100:1a1a2e&fontColor=00ff88&stroke=00ff88&strokeWidth=2&animation=twinkling&desc=Full%20Stack%20%E2%94%82%20Gen%20AI%20%E2%94%82%20Open%20Source&descAlignY=75&descSize=16&fontAlignY=45">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=AWAIS%20AFTAB&fontSize=60&color=0:e8f4f8,100:c8e6f0&fontColor=0a3d62&stroke=0a3d62&strokeWidth=2&animation=twinkling&desc=Full%20Stack%20%E2%94%82%20Gen%20AI%20%E2%94%82%20Open%20Source&descAlignY=75&descSize=16&fontAlignY=45" />
+</picture>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## 🧠 About Me
-
-```yaml
-name: Awais Aftab
-handle: MRAWAISAFTAB
-role: Full Stack Developer
-location: Pakistan 🇵🇰
-pronouns: He/Him
-
-currently_learning:
-  - Generative AI & LLMs
-  - Prompt Engineering
-  - AI-Powered Applications
-
-interests:
-  - Full Stack Web Development
-  - Building AI-Integrated Products
-  - Open Source Collaboration
-
-fun_fact: >
-  I turn caffeine ☕ into code
-  and ideas into working products.
-
-contact: aacreator57@gmail.com
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  AWAIS-OS  [kernel 2025.1.0]                         uptime: ∞ hrs  │
+│─────────────────────────────────────────────────────────────────────│
+│                                                                     │
+│  $ whoami                                                           │
+│  > Awais Aftab — Full Stack Developer, Pakistan 🇵🇰                 │
+│                                                                     │
+│  $ cat /etc/mission                                                 │
+│  > Build things that matter. Ship things that work.                 │
+│    Currently obsessed with Generative AI.                           │
+│                                                                     │
+│  $ ps aux | grep "currently running"                                │
+│  > [1] learning   Generative AI & LLM Engineering          RUNNING │
+│  > [2] building   AI-powered full stack applications        RUNNING │
+│  > [3] seeking    cool collaborators & open source pals     RUNNING │
+│  > [4] fueled-by  coffee and curiosity                      RUNNING │
+│                                                                     │
+│  $ echo $CONTACT                                                    │
+│  > aacreator57@gmail.com                                            │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ⚡ Tech Arsenal
-
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### 🤖 AI & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## `~/skills` — the stack
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MRAWAISAFTAB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MRAWAISAFTAB&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRAWAISAFTAB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="40%" />
-
-</div>
-
----
-
-## 🚀 Currently Building & Exploring
-
-```javascript
-const awais = {
-  currentFocus: "Integrating Generative AI into real-world applications",
-  
-  dailyStack: ["React", "Node.js", "Python", "LLMs"],
-  
-  openTo: [
-    "Full Stack collaborations 🤝",
-    "AI-powered product development 🤖",
-    "Open source contributions 🌍",
-    "Freelance projects 💼"
-  ],
-  
-  lifePhilosophy: "Code → Ship → Learn → Repeat 🔄",
-  
-  reachMe: "aacreator57@gmail.com 📬"
-};
+```python
+class Awais:
+    
+    frontend   = ["React", "Next.js", "TypeScript", "Tailwind CSS", "HTML5", "CSS3"]
+    backend    = ["Node.js", "Express.js", "Python", "REST APIs"]
+    databases  = ["MongoDB", "PostgreSQL", "Firebase"]
+    ai_tools   = ["OpenAI API", "LangChain", "Prompt Engineering", "LLMs"]
+    devtools   = ["Git", "GitHub", "VS Code", "Postman", "Docker"]
+    
+    currently_exploring = "Generative AI x Full Stack = rocket ship"
+    
+    def philosophy(self):
+        return "Write code like someone else will maintain it. Because you will."
 ```
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MRAWAISAFTAB&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+## `~/stats` — by the numbers
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MRAWAISAFTAB&show_icons=true&theme=transparent&hide_border=true&title_color=00cc77&icon_color=00cc77&text_color=555555&count_private=true&rank_icon=percentile" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MRAWAISAFTAB&theme=transparent&hide_border=true&ring=00cc77&fire=ff6b35&currStreakLabel=00cc77&sideLabels=555555&dates=555555" />
 
----
-
-## 🌐 Let's Connect & Collaborate!
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aacreator57@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRAWAISAFTAB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MRAWAISAFTAB)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRAWAISAFTAB&layout=compact&theme=transparent&hide_border=true&title_color=00cc77&text_color=555555)](https://github.com/MRAWAISAFTAB)
 
 </div>
 
@@ -152,16 +80,61 @@ const awais = {
 
 <div align="center">
 
-### 💡 "The best code is no code, but when you must — make it elegant."
+## `~/commits` — the journey
 
-<img src="https://komarev.com/ghpvc/?username=MRAWAISAFTAB&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile Views" />
-
-**⭐ Star my repos if you find them useful — it means the world!**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MRAWAISAFTAB&bg_color=0d1117&color=00cc77&line=00cc77&point=ffffff&area=true&hide_border=true&area_color=00cc7722">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRAWAISAFTAB&bg_color=f6f8fa&color=0a3d62&line=00cc77&point=0a3d62&area=true&hide_border=true&area_color=00cc7722" />
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+## `~/pinned` — things I'm proud of
+
+[![MRAWAISAFTAB](https://github-readme-stats.vercel.app/api/pin/?username=MRAWAISAFTAB&repo=MRAWAISAFTAB&theme=transparent&hide_border=true&title_color=0a3d62&text_color=555555&icon_color=00cc77)](https://github.com/MRAWAISAFTAB/MRAWAISAFTAB)
+[![weather-app-oss](https://github-readme-stats.vercel.app/api/pin/?username=MRAWAISAFTAB&repo=weather-app-oss&theme=transparent&hide_border=true&title_color=0a3d62&text_color=555555&icon_color=00cc77)](https://github.com/MRAWAISAFTAB/weather-app-oss)
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/connect` — find me in the wild
+
+[![Email](https://img.shields.io/badge/──%20email-aacreator57%40gmail.com-00cc77?style=flat-square&labelColor=111111&logo=gmail&logoColor=00cc77)](mailto:aacreator57@gmail.com)
+[![GitHub](https://img.shields.io/badge/──%20github-MRAWAISAFTAB-00cc77?style=flat-square&labelColor=111111&logo=github&logoColor=00cc77)](https://github.com/MRAWAISAFTAB)
+[![LinkedIn](https://img.shields.io/badge/──%20linkedin-awaisaftab-00cc77?style=flat-square&labelColor=111111&logo=linkedin&logoColor=00cc77)](https://linkedin.com/in/MRAWAISAFTAB)
+
+</div>
+
+---
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   "Programs must be written for people to read, and only           │
+│    incidentally for machines to execute."                           │
+│                                         — Harold Abelson            │
+│                                                                     │
+│   $ shutdown -h ... just kidding. There's always more to build.    │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MRAWAISAFTAB&style=flat-square&color=00cc77&label=profile+views)
+
+*Thanks for visiting — leave a ⭐ if something here sparked your curiosity.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:e8f4f8&height=80&section=footer" />
+</picture>
+
 </div>
