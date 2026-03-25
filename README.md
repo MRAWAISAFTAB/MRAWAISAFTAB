@@ -1,17 +1,19 @@
+<!-- AWAIS.EXE — loading... -->
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&height=140&text=Awais%20Aftab&fontSize=52&color=0:1a1a2e,100:16213e&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Generative%20AI%20Explorer&descAlignY=72&descSize=15&fontAlignY=42">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=140&text=Awais%20Aftab&fontSize=52&color=0:e8eaf6,100:e3f2fd&fontColor=1a1a2e&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Generative%20AI%20Explorer&descAlignY=72&descSize=15&fontAlignY=42" />
-</picture>
+```
+ ▄▀▀▀▀▄  ▄▀▀▄ ▀▀▄  ▄▀▀▀▀▄  ▄▀▀▀▀▄      ▄▀▀▀▀▄    ▄▀▀▄▀▀▀▄  ▄▀▀▀▀▄ 
+█    █  █   ▀▄ ▄▀ █      █ █      █    █ █   ▐   █   █   █ █      █
+▐    █  ▐     █   █      █ █      █       ▀▄     ▐   █   █ █      █
+    █         █   ▀▄    ▄▀ ▀▄    ▄▀    ▄ █ █        █▄▄▄█  ▀▄    ▄▀ 
+  ▄▀        ▄▀     ▀▀▀▀▀    ▀▀▀▀▀    █  ▀▀         █    █    ▀▀▀▀  
+ █          █                        ▐             ▄▀   █          
+ ▐          ▐                                     █    ▐           
+                                                  ▐                
+```
 
-<br/>
-
-**🍎 I built my profile as an interactive iPhone UI — tap below to explore it**
-
-[![Open Portfolio](https://img.shields.io/badge/Open%20Interactive%20Portfolio-%F0%9F%93%B1%20iPhone%20UI-007aff?style=for-the-badge&labelColor=1c1c1e)](https://MRAWAISAFTAB.github.io/portfolio)
-
-<sub>Built with pure HTML · CSS · JS — no frameworks · fully responsive</sub>
+### `> SELECT YOUR PLAYER`
 
 </div>
 
@@ -19,32 +21,185 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=17&pause=1200&color=007AFF&center=true&vCenter=true&width=500&lines=Building+full+stack+apps+that+ship+%F0%9F%9A%80;Currently+exploring+Generative+AI+%F0%9F%A4%96;Open+to+collaborate+%E2%80%94+let%27s+build+something)](https://git.io/typing-svg)
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    ⚔  CHARACTER SHEET  ⚔                    ║
+║══════════════════════════════════════════════════════════════║
+║                                                              ║
+║   NAME    :  Awais Aftab                                     ║
+║   CLASS   :  Full Stack Wizard 🧙                            ║
+║   ORIGIN  :  Pakistan 🌙                                     ║
+║   GUILD   :  Open Source Brotherhood                         ║
+║   STATUS  :  🟢 ONLINE — Seeking Co-op Party                ║
+║                                                              ║
+║   HP  ████████████████████  100 / 100                        ║
+║   MP  ████████████████░░░░   80 / 100  [Recharging...]       ║
+║   XP  ████████████░░░░░░░░  2847 / 5000  → LVL 12           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-```swift
-struct Awais {
-    let name     = "Awais Aftab"
-    let role     = "Full Stack Developer"
-    let location = "Pakistan 🇵🇰"
-    let pronouns = "He / Him"
-    let contact  = "aacreator57@gmail.com"
+## 🎮 SKILL TREE
 
-    var currentlyLearning = ["Generative AI", "LLMs", "Prompt Engineering"]
-    var stack = ["React", "Next.js", "Node.js", "TypeScript", "Python", "MongoDB"]
-    var openTo = ["Collaborations", "Open Source", "Freelance", "Full-time"]
-}
+```
+                         [AWAIS AFTAB]
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+    ⚔ FRONTEND          🛡 BACKEND           🔮 AI MAGIC
+          │                   │                   │
+    ┌─────┴─────┐       ┌─────┴─────┐       ┌─────┴─────┐
+    │           │       │           │       │           │
+  React     Next.js   Node.js   Python   OpenAI    LangChain
+  [MAX]      [LVL9]   [LVL10]   [LVL8]   [LVL6]    [LVL5]
+    │           │       │           │       │           │
+TypeScript  Tailwind  Express  PostgreSQL  Prompts   Agents
+  [LVL9]     [MAX]    [LVL9]    [LVL8]   [LVL7]    [LVL4]
 ```
 
 ---
 
+## 📊 STATS
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MRAWAISAFTAB&show_icons=true&theme=transparent&hide_border=true&title_color=007aff&icon_color=007aff&count_private=true" height="155"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MRAWAISAFTAB&theme=transparent&hide_border=true&ring=007aff&fire=ff6b35&currStreakLabel=007aff" height="155"/>
+```
+┌─────────────────────────────────────────────────┐
+│                   BASE STATS                    │
+├──────────────────┬──────────────────────────────┤
+│  STR  (Backend)  │  ████████████████░░  82 pts  │
+│  INT  (AI/Logic) │  ██████████████░░░░  72 pts  │
+│  DEX  (React)    │  ██████████████████  88 pts  │
+│  WIS  (Design)   │  ████████████░░░░░░  75 pts  │
+│  CON  (Shipping) │  ███████████████░░░  90 pts  │
+│  CHA  (Git push) │  ██████████████░░░░  79 pts  │
+└──────────────────┴──────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🗺️ QUEST LOG
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ACTIVE QUESTS                                              │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🔥 [MAIN]  Master the Arts of Generative AI               │
+│             ████████░░░░░░░░░░░░  Progress: 40%            │
+│             Reward: +50 INT, Unlock: AI Wizard class        │
+│                                                             │
+│  ⚡ [MAIN]  Ship a Full-Stack AI Product                    │
+│             █████░░░░░░░░░░░░░░░  Progress: 25%            │
+│             Reward: +100 XP, GitHub Star Badge              │
+│                                                             │
+│  🌐 [SIDE]  Contribute to 5 Open Source repos              │
+│             ████████████░░░░░░░░  Progress: 60%            │
+│             Reward: +30 CHA, Open Source Veteran title      │
+│                                                             │
+│  📦 [SIDE]  Build a SaaS Boilerplate                       │
+│             ███░░░░░░░░░░░░░░░░░  Progress: 15%            │
+│             Reward: Passive income loot drop 💰             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│  COMPLETED QUESTS                             [35 repos]    │
+├─────────────────────────────────────────────────────────────┤
+│  ✅  Learn HTML/CSS/JS from zero              +200 XP       │
+│  ✅  Build first React app                    +350 XP       │
+│  ✅  Ship a full-stack Node + MongoDB app     +500 XP       │
+│  ✅  Contribute to weather-app-oss            +150 XP       │
+│  ✅  Write first Python script                +100 XP       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+```
+  🏅 EARNED                         🔒 LOCKED
+  ─────────────────────────────     ──────────────────────────
+  [★] First Commit                  [?] 1000 GitHub Stars
+  [★] Full Stack Unlock             [?] Viral Open Source Proj
+  [★] Open Source Initiate          [?] AI Product Shipped
+  [★] Bug Slayer                    [?] Top 1% Developer
+  [★] Coffee to Code Converter      [?] 10k Followers
+  [★] Pakistan Dev Rising           [?] The Legend Badge
+```
+
+</div>
+
+---
+
+## 📦 INVENTORY
+
+```
+  ╔════════════════════════════════════════════════════╗
+  ║  EQUIPPED                      │  BACKPACK         ║
+  ╠════════════════════════════════════════════════════╣
+  ║  🗡  VS Code (IDE of Choice)   │  📖 LLM Spellbook ║
+  ║  🛡  TypeScript (Type Shield)  │  🧪 Docker Flask  ║
+  ║  👟  Tailwind (Speed Boots)    │  🔭 Postman Scope ║
+  ║  💍  GitHub (Ring of Commits)  │  🎒 Linux Satchel ║
+  ║  📜  Git (Scroll of Versions)  │  ⚗  Python Brew  ║
+  ╚════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🌍 WORLD MAP
+
+```
+  YOU ARE HERE
+       │
+       ▼
+  [PAKISTAN] ──── connected to ──── [INTERNET] ──── connected to ──── [THE WORLD]
+       │                                                                     │
+  Home Base                                                          Global Dev Scene
+  Level up zone                                               Open Source Battleground
+```
+
+---
+
+## 💬 NPC DIALOGUE
+
+<div align="center">
+
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │  🧙 AWAIS says:                                              │
+  │                                                              │
+  │  "The scrolls of Generative AI call to me... I must         │
+  │   master them before the next expansion drops. In the       │
+  │   meantime, I'm open to party invites — especially          │
+  │   co-op builds with fellow devs. My messenger pigeon        │
+  │   is: aacreator57@gmail.com"                                │
+  │                                                              │
+  │  > [Send Message]  > [View Quests]  > [Trade Skills]        │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📡 PARTY INVITE
+
+<div align="center">
+
+[![Press Start](https://img.shields.io/badge/%F0%9F%8E%AE_PRESS_START-aacreator57%40gmail.com-FF4500?style=for-the-badge&labelColor=1a1a2e)](mailto:aacreator57@gmail.com)
+[![Join Guild](https://img.shields.io/badge/%F0%9F%90%99_JOIN_GUILD-GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRAWAISAFTAB)
+[![LinkedIn Quest](https://img.shields.io/badge/%F0%9F%92%BC_QUEST_BOARD-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MRAWAISAFTAB)
 
 </div>
 
@@ -52,10 +207,19 @@ struct Awais {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-aacreator57%40gmail.com-007aff?style=flat-square&logo=gmail&logoColor=white&labelColor=1c1c1e)](mailto:aacreator57@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MRAWAISAFTAB-1c1c1e?style=flat-square&logo=github&logoColor=white)](https://github.com/MRAWAISAFTAB)
-[![Portfolio](https://img.shields.io/badge/Portfolio-iPhone%20UI-5856d6?style=flat-square&logo=apple&logoColor=white)](https://MRAWAISAFTAB.github.io/portfolio)
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │   THANKS FOR PLAYING  —  awais.exe v25.1                    │
+  │                                                              │
+  │   Press  [⭐ STAR]  to save your game                        │
+  │   Press  [👁 FOLLOW] to subscribe for DLC updates           │
+  │                                                              │
+  │                © 2025  AWAISAFTAB STUDIOS                   │
+  │                                                              │
+  └──────────────────────────────────────────────────────────────┘
+```
 
-![views](https://komarev.com/ghpvc/?username=MRAWAISAFTAB&style=flat-square&color=007aff&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=MRAWAISAFTAB&style=pixel&color=FF4500&label=PLAYERS+VISITED)
 
 </div>
