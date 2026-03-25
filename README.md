@@ -1,47 +1,82 @@
-<div align="center">
+# 👋 Hello World, I'm Awais!
 
-# 👾 AWAIS.EXE — BUG BLASTER
-
-### A fully playable Space Invaders game — right here in my profile
-
-**🕹️ Use ← → arrow keys to move · SPACE to shoot**
-
-</div>
+![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l4d3F3d3Z5eXh0bW1zZ3Z5Z3B0d2l1Z3F2Z3h0c2R4bGJ5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 
-<!-- GAME EMBED — hosted on GitHub Pages -->
-<div align="center">
+## 🚀 About Me
 
-<a href="https://MRAWAISAFTAB.github.io/MRAWAISAFTAB">
-  <img src="https://img.shields.io/badge/🎮_CAN'T_SEE_THE_GAME%3F-Click_to_Play_Fullscreen-ff4500?style=for-the-badge&labelColor=1a1a2e" />
-</a>
-
-</div>
-
-<p align="center">
-  <iframe src="https://MRAWAISAFTAB.github.io/MRAWAISAFTAB" width="480" height="600" frameborder="0" scrolling="no" style="border-radius:12px;display:block;margin:auto;"></iframe>
-</p>
+* 💻 Software Developer in progress
+* 🌱 Currently learning **Full Stack Web Development**
+* 🧠 Focused on **JavaScript, React & Backend Systems**
+* 🎯 Goal: Become a professional developer & land top opportunities
+* ⚡ Fun fact: I build projects more than I sleep 😄
 
 ---
 
-<div align="center">
+## 🧩 Current Projects
 
-```
-  PILOT  : Awais Aftab          CLASS  : Full Stack Wizard 🧙
-  ORIGIN : Pakistan 🇵🇰          WEAPON : React + Node.js
-  SCORE  : [play to find out]   STATUS : 🟢 Open to Co-op
-```
-
-</div>
+* 📊 Expense Tracker System
+* 🔐 Full Authentication System (OTP + Email Integration)
+* 🏥 HealthMate App
+* 🎓 Bootcamp Management System
+* 📝 Notes Tracker App *(In Progress)*
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-[![Email](https://img.shields.io/badge/📬_EMAIL-aacreator57@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aacreator57@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GITHUB-MRAWAISAFTAB-0a0a0a?style=for-the-badge&logo=github)](https://github.com/MRAWAISAFTAB)
+**Frontend:**
 
-![views](https://komarev.com/ghpvc/?username=MRAWAISAFTAB&style=pixel&color=ff4500&label=PLAYERS+VISITED)
+* HTML
+* CSS
+* JavaScript
 
-</div>
+**Backend:**
+
+* Node.js
+* Express.js
+
+**Database:**
+
+* MongoDB
+
+**Tools:**
+
+* Git & GitHub
+* VS Code
+* Postman
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* 🐦 Twitter: [https://twitter.com/your-handle](https://twitter.com/your-handle)
+
+---
+
+## 🏆 Achievements
+
+* ✅ Completed 5+ real-world projects
+* 🚀 Selected in Bootcamp Tracker System Team
+* 📈 Constantly improving coding & problem solving skills
+
+---
+
+## 💡 Quote
+
+> "Consistency beats talent when talent doesn’t work hard."
+
+---
+
+## ⚡ GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact)
+
+---
+
+⭐ *Feel free to check out my repositories and give them a star!*
